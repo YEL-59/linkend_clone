@@ -1,0 +1,15 @@
+[
+	{
+		"id": 1,
+		"name": "Site map",
+		"subname": [
+			{ "id": 1, "name": "Blog", "link": "/" },
+			{ "id": 2, "name": "About", "link": "/" },
+			{ "id": 3, "name": "Contact", "link": "/" },
+			{ "id": 4, "name": "privacy policy", "link": "/" },
+			{ "id": 5, "name": "Terms And Conditions", "link": "/" },
+			{ "id": 6, "name": "Refunds Policy", "link": "/" },
+			{ "id": 6, "name": "Disclimer", "link": "/" }
+		]
+	}
+]
