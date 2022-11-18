@@ -5,6 +5,7 @@ import Signup from './pages/Authentication/Signup';
 import { Routes, Route } from 'react-router-dom';
 import Footer from './components/footer/Footer';
 import Breadcrmb from './components/breadcrumbs/Breadcrmb';
+
 function App() {
 	return (
 		<>
