@@ -17,6 +17,7 @@ function Navbar() {
 	const [open, setOpen] = useState(false);
 	return (
 		<>
+		
 			<nav className="bg-primary md:text-white text-black sticky top-0 w-full">
 				<div className="container mx-auto flex items-center font-medium justify-between">
 					<div className="z-50 p-5 md:w-auto w-full flex justify-between">
