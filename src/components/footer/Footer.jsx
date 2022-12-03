@@ -29,6 +29,7 @@ function Footer() {
 								</ul>
 							);
 						})}
+						
 					<ul className="md:w-[300px]">
 						<h1 className="md:text-lg text-md font-bold mb-5"> Dhaka Office</h1>
 						<span className="flex items-center gap-2">
