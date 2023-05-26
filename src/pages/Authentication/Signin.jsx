@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Signin() {
-	return <div>Signin</div>;
+	return <div>Signins</div>;
 }
 
 export default Signin;
