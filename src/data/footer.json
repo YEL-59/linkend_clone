@@ -9,7 +9,8 @@
 			{ "id": 4, "name": "privacy policy", "link": "/" },
 			{ "id": 5, "name": "Terms And Conditions", "link": "/" },
 			{ "id": 6, "name": "Refunds Policy", "link": "/" },
-			{ "id": 6, "name": "Disclimer", "link": "/" }
+			{ "id": 7, "name": "Disclimer", "link": "/" },
+				{ "id": 8, "name": "Career", "link": "/" }
 		]
 	}
 ]
